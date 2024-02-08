@@ -1,4 +1,4 @@
-<h2 align="center">Hi There! I'm Danilo Souza 👋</h2>
+<h2 align="center">Hi There! I'm Danilo Souza <div class="hi">👋</div></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniloczar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&rank_icon=github" height="150" alt="stats graph"  />
@@ -14,11 +14,33 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
-<style>
-    .logo img{
-        border-radius: 6px;
-        margin: 0 5px;
-    }
     
 </style>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+        }
+        .logo img{
+        border-radius: 6px;
+        margin: 0 5px;
+      </style>
