@@ -43,3 +43,6 @@
         border-radius: 6px;
         margin: 0 5px;
       </style>
+      </div>
+  </foreignObject>
+</svg>
