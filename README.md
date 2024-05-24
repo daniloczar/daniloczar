@@ -1,4 +1,4 @@
-<h2 align="center">Hi There! I'm Danilo Souza <div class="hi">👋</div></h2>
+![logo](https://github.com/daniloczar/daniloczar/blob/main/github-header-image.png)
 
 <div align="center">
  
