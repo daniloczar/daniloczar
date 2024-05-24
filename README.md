@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniloczar&hide_title=tru&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&rank_icon=github" height="150" alt="stats graph"  />
-  (https://github-readme-stats.vercel.app/api?username=daniloczar&theme=dark&show_icons=true)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloczar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniloczar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="249" alt="activity-graph graph"  />
 </div>
